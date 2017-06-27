@@ -1,0 +1,11 @@
+<div class="ag-grid-table ag-material ag-jcp2 height-48">
+      <div ag-grid="vm.gridOptions" class="ag-material ag-jcp2"></div>
+  </div>
+  <md-divider></md-divider>
+  <div class="layout-row layout-wrap" ng-show="vm.boxShow == true">
+      <div class="task-summary-grid flex-100" style="margin-left: 30px;margin-right: 30px;">
+          <md-input-container class="md-block padding-0 margin-bottom-0">
+              <textarea md-maxlength="300" required md-asterisk name="vm.description" ng-model="vm.Description" placeholder="Write your comments here"></textarea>
+          </md-input-container>
+      </div>
+  </div>
