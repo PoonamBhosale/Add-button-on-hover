@@ -1,0 +1,6 @@
+.myComment{
+      display: none;
+  }
+  .ag-row-hover:hover .myComment{
+      display: block;
+  }
