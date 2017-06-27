@@ -1,0 +1,96 @@
+[{
+        "status": "In Progress",
+        "category": "Feature Description*",
+        "size": "100 MB",
+        "ratingnumber": "100",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Traceport Document*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "90",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Software Package*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Release Notes*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "MOP for LSMR Upgrade*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Software Checksum*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "CM Parameter Library*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "PM Counter Dictionary*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "FM Alarm Description*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Voma Document*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "MCE Documents*",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    },
+    {
+        "status": "In Progress",
+        "category": "Others",
+        "size": "100 MB",
+        "taskcompletion": "Validation",
+        "ratingnumber": "2/2",
+        "deleteflag":false
+    }
+]
